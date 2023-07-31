@@ -1,0 +1,9 @@
+{
+  "expoServerPort": null,
+  "packagerPort": 19000,
+  "expoServerNgrokUrl": "https://vr-nav.anonymous.my-app.exp.direct",
+  "packagerNgrokUrl": "https://vr-nav.anonymous.my-app.exp.direct",
+  "ngrokPid": 13164,
+  "packagerPid": null,
+  "webpackServerPort": null
+}
